@@ -34,4 +34,6 @@ services:
     environment:
       SPRING.PROFILES.ACTIVE: production
       SPRING.DATASOURCE.URL: jdbc:postgresql://db:5432/postgres 
+      SPRING.DATASOURCE.USERNAME: postgres
+      SPRING.DATASOURCE.PASSWORD: password
       
