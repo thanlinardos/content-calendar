@@ -34,3 +34,4 @@ build/
 
 src/main/resources/pgadmin-data
 src/main/resources/postgres-data
+website/node_modules
